@@ -1,0 +1,26 @@
+{
+  "name": "backend0",
+  "version": "1.0.0",
+  "description": "learning-nodeJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dinhviet88/nodejs-learning.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "mrviet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dinhviet88/nodejs-learning/issues"
+  },
+  "homepage": "https://github.com/dinhviet88/nodejs-learning#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
